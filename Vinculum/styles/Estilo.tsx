@@ -171,6 +171,7 @@ SubMedico:{
     marginLeft: 150,
 },
 //Pt4
+
 Titulo4:{
 fontWeight: 'bold',
     color: 'black',
@@ -215,7 +216,7 @@ LoginLabel1:{
 EsqueciSenha:{
     fontWeight: 'bold',
     color: AzulClaro,
-    marginLeft: 230,
+    marginLeft: 195,
     fontSize: 15,
     marginTop: 10,
 },
@@ -229,4 +230,97 @@ BtnLogin:{
     justifyContent: 'center',
     marginTop: 70,
 },
+
+
+
+//pt5
+
+VoltaLogin:{
+alignSelf:'center',
+ fontWeight: 'bold',
+    color: AzulClaro,
+    fontSize: 15,
+    margin:15,
+    
+},
+
+Carta:{
+    alignItems:'center',
+    width: 230,
+    height:230,
+    alignSelf:'center',
+    marginTop:30,
+
+},
+
+//pt6
+
+CaixasConta:{
+    width: 300,
+    height: 55,
+    borderWidth: 1,
+    borderColor: 'gray',
+    alignSelf: 'center',
+    marginTop: 5,
+    paddingLeft: 20,
+    borderRadius: 10,
+
+},
+CaixasContaSenhas:{
+    width: 245,
+    height: 55,
+    borderLeftWidth: 1,
+    borderBottomWidth: 1,
+    borderTopWidth: 1,
+
+    borderColor: 'gray',
+    alignSelf: 'center',
+    marginTop: 5,
+    paddingLeft: 20,
+    borderRadius: 10,
+    marginRight: 55,
+    borderRightWidth: 0,
+
+},
+LoginLabel6:{
+    fontWeight: 'bold',
+    color: 'black',
+    marginLeft: 60,
+    fontSize: 18,
+    marginTop: 25,
+},
+BtnCriarConta1:{
+    width: 300,
+    height: 55,
+    backgroundColor: VerdeBaitola2,
+    borderRadius: 10,
+    alignSelf: 'center',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 30,
+},
+BtnOlho:{
+    width: 55,
+    height: 55,
+    borderRightWidth: 1,
+    alignSelf: 'flex-end',
+    marginRight: 63,
+    borderTopRightRadius: 10,
+    borderBottomRightRadius: 10,
+    borderColor: 'gray',
+    borderLeftWidth: 0,
+    borderTopWidth: 1,
+    borderBottomWidth: 1,
+    marginTop: -55,
+    justifyContent: 'center',
+    alignItems: 'center',
+
+
+}
+
+
+
+
+
+
 });

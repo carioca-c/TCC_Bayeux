@@ -32,8 +32,8 @@ export default function Inicio() {
 </TouchableOpacity>
 </Link>
 
-        <Tabs.Screen options={{ tabBarStyle: { display: 'none' } }} />
-        <Tabs.Screen options={{ headerShown: false }} />
+            <Tabs.Screen options={{ tabBarStyle: { display: 'none' } }} />
+            <Tabs.Screen options={{ headerShown: false }} />
     </View>
   );
 }

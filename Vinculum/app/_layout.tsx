@@ -7,7 +7,7 @@ export default function RootLayout() {
         headerShown: false,
       }}
     >
-      <Stack.Screen name="index" />
+      <Stack.Screen name="Index" />
       <Stack.Screen name="Splash" />
       <Stack.Screen name="pages/Login" />
       <Stack.Screen name="pages/Escolha" />
